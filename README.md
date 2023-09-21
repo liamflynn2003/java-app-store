@@ -1,4 +1,5 @@
 # java-app-store
+1st Year, Semester 2 Final Assignment:
 
 A java application that can create, store and display information on apps and their developers to arrays.
 
