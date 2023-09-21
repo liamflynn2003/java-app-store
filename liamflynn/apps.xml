@@ -1,0 +1,63 @@
+<object-stream>
+  <list>
+    <models.EducationApp>
+      <developer>
+        <developerName>Me</developerName>
+        <developerWebsite>me.com</developerWebsite>
+      </developer>
+      <appName>Learn</appName>
+      <appSize>23.0</appSize>
+      <appVersion>1.0</appVersion>
+      <appCost>3.99</appCost>
+      <ratings>
+        <models.Rating>
+          <numberOfStars>1</numberOfStars>
+          <raterName>Scotty</raterName>
+          <ratingComment>Loved the UX</ratingComment>
+        </models.Rating>
+        <models.Rating>
+          <numberOfStars>1</numberOfStars>
+          <raterName>JohnD</raterName>
+          <ratingComment>Used once, never again</ratingComment>
+        </models.Rating>
+      </ratings>
+      <level>3</level>
+    </models.EducationApp>
+    <models.GameApp>
+      <developer>
+        <developerName>Me</developerName>
+        <developerWebsite>me.com</developerWebsite>
+      </developer>
+      <appName>Gamer</appName>
+      <appSize>5.0</appSize>
+      <appVersion>1.0</appVersion>
+      <appCost>5.0</appCost>
+      <ratings>
+        <models.Rating>
+          <numberOfStars>3</numberOfStars>
+          <raterName>JohnD</raterName>
+          <ratingComment>Poor App</ratingComment>
+        </models.Rating>
+      </ratings>
+      <isMultiplayer>true</isMultiplayer>
+    </models.GameApp>
+    <models.GameApp>
+      <developer>
+        <developerName>Me</developerName>
+        <developerWebsite>me.com</developerWebsite>
+      </developer>
+      <appName>Test Game</appName>
+      <appSize>23.0</appSize>
+      <appVersion>1.0</appVersion>
+      <appCost>3.0</appCost>
+      <ratings>
+        <models.Rating>
+          <numberOfStars>4</numberOfStars>
+          <raterName>Eve101</raterName>
+          <ratingComment>Great App</ratingComment>
+        </models.Rating>
+      </ratings>
+      <isMultiplayer>true</isMultiplayer>
+    </models.GameApp>
+  </list>
+</object-stream>

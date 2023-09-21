@@ -1,0 +1,20 @@
+<object-stream>
+  <list>
+    <models.Developer>
+      <developerName>Me</developerName>
+      <developerWebsite>me.com</developerWebsite>
+    </models.Developer>
+    <models.Developer>
+      <developerName>GameDev</developerName>
+      <developerWebsite>gameDev.com</developerWebsite>
+    </models.Developer>
+    <models.Developer>
+      <developerName>PrDev</developerName>
+      <developerWebsite>prDev.com</developerWebsite>
+    </models.Developer>
+    <models.Developer>
+      <developerName>EdDev</developerName>
+      <developerWebsite>edDev.com</developerWebsite>
+    </models.Developer>
+  </list>
+</object-stream>
